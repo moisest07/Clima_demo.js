@@ -2,10 +2,6 @@
 
 Aplicación web sencilla que permite consultar el clima en tiempo real de cualquier ciudad del mundo utilizando JavaScript y una API de clima gratuita.
 
----
-
-## 🚀 Demo
-🔗 https://moisest07.github.io/clima-js/
 
 ---
 
@@ -35,3 +31,4 @@ Clima_js/
 │── index.html
 │── style.css
 │── script.js
+
